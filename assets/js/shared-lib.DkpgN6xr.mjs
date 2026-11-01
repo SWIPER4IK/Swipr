@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{robots:`max-image-preview:large`,socialImage:`assets/images/image-extra-2-2.png`,title:`SWIPR`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.DkpgN6xr.mjs.map
